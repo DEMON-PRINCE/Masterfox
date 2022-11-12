@@ -9,7 +9,7 @@ Masterfox is a mix of popular firefox user.js files
 
 > What does Masterfox do
 
-it manly gives firefox more privacy,security and will make faster
+it mainly gives firefox more privacy,security and will make it faster
 
 > will Masterfox break firefox
 
