@@ -13,7 +13,7 @@ it mainly gives firefox more privacy,security and will make it faster
 
 > will Masterfox break firefox
 
-yes it will break firefox but it wont break it too much to the point it will break it to be unuseble it break small things
+yes it will break firefox but it wont break it too much to the point it will break it to be unuseble it will break small things
 
 > is it a full copy of all firefox user.js
 
