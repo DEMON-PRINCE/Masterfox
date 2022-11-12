@@ -25,6 +25,6 @@ all the user.js files Masterfox took to make it
 
 [Arkenfox](https://github.com/arkenfox/user.js)
 
-[Pyllyukko](https://github.com/pyllyukko/user.js)
-
 [yokoffing](https://github.com/yokoffing/Betterfox)
+
+[Pyllyukko](https://github.com/pyllyukko/user.js)
