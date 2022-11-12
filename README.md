@@ -4,7 +4,7 @@
 
 > What is Masterfox
 
-Masterfox is mix of popular firefox user.js files
+Masterfox is a mix of popular firefox user.js files
 
 
 > What does Masterfox do
