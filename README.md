@@ -6,7 +6,7 @@
 
 Masterfox is a mix of popular firefox user.js files
 
-## why was masterfox created
+### why was masterfox created
 
 it was frist just a personal project and after a while i thought of making it open source so every one can use it
 
